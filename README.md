@@ -18,4 +18,4 @@
 ### Add Your name to the list Below
 * Tai the Thai
 * Ryan Hamblin
-* Kaitlyn Schorr
+* Kaitlyn Schorr!
