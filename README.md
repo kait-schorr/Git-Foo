@@ -19,3 +19,4 @@
 * Tai the Thai
 * Ryan Hamblin
 * Abraham Andujo
+* Kaitlyn Schorr
