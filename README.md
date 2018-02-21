@@ -18,8 +18,4 @@
 ### Add Your name to the list Below
 * Tai the Thai
 * Ryan Hamblin
-<<<<<<< HEAD
 * Abraham Andujo
-=======
-* Kaitlyn Schorr!
->>>>>>> 5f6957e5235e451741d4871598252b170cdf1c43
